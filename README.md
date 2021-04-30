@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvndkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="gvndkrishna" /> </p>
 
 - ⚡ Fun fact **This is my smurf account!**
+- 📫 How to reach me **gvndkrishna7@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
