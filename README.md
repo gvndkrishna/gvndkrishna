@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/govindkrishna29" target="blank"><img align="center" src="http://lzmarieauthor.com/wp-content/uploads/2014/05/linkedin-icon-1024x1024.png" alt="govindkrishna29" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14884669/govind-krishna" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" alt="14884669/govind-krishna" height="30" width="40" /></a>
 <a href="https://kaggle.com/govindkrishna29" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="govindkrishna29" height="30" width="40" /></a>
-<a href="https://medium.com/@govindkrishnalb" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="@govindkrishnalb" height="30" width="40" /></a>
+<a href="https://medium.com/@govindkrishnalb" target="blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" alt="@govindkrishnalb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
