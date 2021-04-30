@@ -11,16 +11,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/govindkrishna9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="govindkrishna9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/govindkrishna29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="govindkrishna29" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14884669/govind-krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14884669/govind-krishna" height="30" width="40" /></a>
-<a href="https://kaggle.com/govindkrishna29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="govindkrishna29" height="30" width="40" /></a>
-<a href="https://fb.com/govind.krishna.2962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="govind.krishna.2962" height="30" width="40" /></a>
-<a href="https://instagram.com/govindkrishnalb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="govindkrishnalb" height="30" width="40" /></a>
-<a href="https://medium.com/@govindkrishnalb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@govindkrishnalb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucmhhm5vxnanyriyonblatlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ucmhhm5vxnanyriyonblatlw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/govindkrishna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="govindkrishna" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gvndkrishna7/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="gvndkrishna7/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/govindkrishna9" target="blank"><img align="center" src="https://socialb.co.uk/wp-content/uploads/2017/04/Twitter_logo_bird_transparent_png-1024x831.png" alt="govindkrishna9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/govindkrishna29" target="blank"><img align="center" src="http://lzmarieauthor.com/wp-content/uploads/2014/05/linkedin-icon-1024x1024.png" alt="govindkrishna29" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14884669/govind-krishna" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" alt="14884669/govind-krishna" height="30" width="40" /></a>
+<a href="https://kaggle.com/govindkrishna29" target="blank"><img align="center" src="https://ih1.redbubble.net/image.1487030337.4900/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" alt="govindkrishna29" height="30" width="40" /></a>
+<a href="https://fb.com/govind.krishna.2962" target="blank"><img align="center" src="https://www.searchpng.com/wp-content/uploads/2019/11/Facebook-Round-Icon.jpg" alt="govind.krishna.2962" height="30" width="40" /></a>
+<a href="https://instagram.com/govindkrishnalb" target="blank"><img align="center" src="https://i7.pngguru.com/preview/704/270/449/social-media-instagram-login-photography-ig.jpg" alt="govindkrishnalb" height="30" width="40" /></a>
+<a href="https://medium.com/@govindkrishnalb" target="blank"><img align="center" src="https://cdn.onlinewebfonts.com/svg/img_256332.png" alt="@govindkrishnalb" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucmhhm5vxnanyriyonblatlw" target="blank"><img align="center" src="https://maxcdn.icons8.com/Share/icon/Media_Controls/youtube_play1600.png" alt="govind krishna" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/govindkrishna" target="blank"><img align="center" src="https://image.winudf.com/v2/image/Y29tLnBzY29uc29sZW5ldy5Db2RlY2hlZl9pY29uXzE1MzE5MDY2MTlfMDUy/icon.png?w=170&fakeurl=1" alt="govindkrishna" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gvndkrishna7/profile" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_23fopx/styles/communityIcon_ljkyip6ctkh31.png?width=256&s=1e5a8269dd013c263e9cc3f3d3744d09c45c0196" alt="gvndkrishna7/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
