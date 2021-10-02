@@ -6,7 +6,7 @@
 - ⚡ Fun fact **This is my smurf account!**
 - 📫 How to reach me **gvndkrishna7@gmail.com**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
