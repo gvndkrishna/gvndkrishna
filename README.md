@@ -57,7 +57,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/gvndkrishna/gvndkrishna/blob/main/PXL_20220102_084704016.PORTRAIT.jpg?raw=true" align="left" style="width: 100%" />  
+<img src="https://github.com/gvndkrishna/gvndkrishna/blob/main/PXL_20220102_084704016.PORTRAIT2.jpg?raw=true" align="left" style="width: 100%" />  
 
 
 </td></tr></table>  
