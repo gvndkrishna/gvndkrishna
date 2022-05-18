@@ -34,7 +34,7 @@
 #### ⚡Interested In  
   
 
-- Physics & Quantum Computing  
+- Physics & Quantum Computing.  
   
 
 - Electric Mobility & EVs  
