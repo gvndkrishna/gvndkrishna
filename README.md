@@ -1,4 +1,4 @@
-<img src=”https://github.com/gvndkrishna/gvndkrishna/blob/main/Star%20Themed%20Facebook%20Event%20Cover%20Photo.png?raw=true" alt=”my banner”>
+<p><img src=”https://github.com/gvndkrishna/gvndkrishna/blob/main/Star%20Themed%20Facebook%20Event%20Cover%20Photo.png?raw=true" alt=”my banner”></p>
 <h1 align="center">Hi 👋, I'm Govind Krishna</h1>
 <h3 align="center">I’m currently working on computer science projects to pioneer the future.</h3>
 
