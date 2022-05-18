@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/gvndkrishna/gvndkrishna/blob/main/Star%20Themed%20Facebook%20Event%20Cover%20Photo.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/gvndkrishna/gvndkrishna/blob/main/header.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
