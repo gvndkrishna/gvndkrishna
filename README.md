@@ -4,11 +4,9 @@
   
 
 ### <div align="center">👋 I'm Govind, exploring computer sciences & new technologies</div>  
-  <div align="center">📫 reach me at gvndkrishna7@gmail.com</div>
+  
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
 
 #### 🔭Current Goals  
   
@@ -34,33 +32,14 @@
 #### ⚡Interested In  
   
 
-- Physics & Quantum Computing.  
+- Physics & Quantum Computing  
   
 
 - Electric Mobility & EVs  
   
 
-- Sustainable & Accessible Technologies
+- Sustainable & Accessible Technologies  
   
-  
-- Transfer Learning
-  
-  
-- Projects involving Machine Learning to identify Cancer & Other Diseases
-  
-  
-- AR, VR & MR
-  
-  
-- Food Technologies
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github.com/gvndkrishna/gvndkrishna/blob/main/PXL_20220102_084704016.PORTRAIT2.jpg?raw=true" align="left" style="width: 100%" />  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -72,7 +51,7 @@
 <br/>  
 
 
-
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -117,7 +96,8 @@
 
 <br/>  
 
- 
+
+## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/govindkrishna29" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -141,6 +121,4 @@
 
 <details><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317x7nf7askhjjxtgds2li47zaqm&cover_image=false&theme=default" /></div></details>
 <br />
-
-----
 
