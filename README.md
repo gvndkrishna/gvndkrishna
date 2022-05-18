@@ -1,4 +1,4 @@
-<img width=”200" height=”200" src=”https://raw.githubusercontent.com/gvndkrishna/gvndkrishna/main/Star%20Themed%20Facebook%20Event%20Cover%20Photo.png" alt=”my banner”>
+<div><img width=”200" height=”200" src=”https://raw.githubusercontent.com/gvndkrishna/gvndkrishna/main/Star%20Themed%20Facebook%20Event%20Cover%20Photo.png" alt=”my banner”></div>
 <h1 align="center">Hi 👋, I'm Govind Krishna</h1>
 <h3 align="center">I’m currently working on computer science projects to pioneer the future.</h3>
 
