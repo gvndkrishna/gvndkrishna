@@ -61,11 +61,16 @@
 <br/>  
 
 ## 📈Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" style="width: 100%"/>
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvndkrishna&layout=compact" />
 </div>
 
-## Find me across the web🌏  
+
+
+
+## Find me across the web🌏
+<div align="center">
 <a href="https://twitter.com/govindkrishna9" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -81,6 +86,6 @@
 <a href="https://instagram.com/govindkrishnalb" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
+</div>
 <br />
 
