@@ -60,6 +60,10 @@
 
 <br/>  
 
+##📈Stats
+<div align="center">
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs)
+</div
 
 ## Find me across the web🌏  
 <a href="https://twitter.com/govindkrishna9" target="_blank">
