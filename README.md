@@ -62,7 +62,7 @@
 
 ## 📈Stats
 <div align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvndkrishna&layout=compact" />
 </div>
 
