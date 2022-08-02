@@ -62,7 +62,7 @@
 
 ## 📈Stats
 <div align="center">
-<a href="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs"> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" style="width: 100%"/>
 </div>
 
 ## Find me across the web🌏  
