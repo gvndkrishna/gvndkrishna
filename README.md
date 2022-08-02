@@ -62,12 +62,12 @@
 
 ## 📈Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" align="left" style="display: inline-block"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvndkrishna&layout=compact" align="right" style="display: inline-block"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gvndkrishna&count_private=true&show_icons=true&hide=contribs" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvndkrishna&layout=compact" />
 </div>
 
 
-
+<br/>
 
 ## Find me across the web🌏
 <div align="center">
@@ -86,6 +86,7 @@
 <a href="https://instagram.com/govindkrishnalb" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>
 <br />
+</div>
+
 
