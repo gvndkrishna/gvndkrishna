@@ -16,10 +16,7 @@
 <br/>  
 
 
-## 🔭Currently Learning  
-- *Terraform using GCP*  
-  
-
+## 🔭Currently Learning    
 - *Cloud Computing & Other Devop Tools*  
   
 
