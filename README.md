@@ -3,7 +3,7 @@
 </div>  
   
 
-#### <div align="center">Exploring Computer Sciences at LPU | SWE (Cloud) at INE </div>  
+#### <div align="center">Exploring Computer Sciences | Cloud Developer </div>  
   
 
 <br/>  
