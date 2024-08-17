@@ -17,7 +17,9 @@
 
 
 ## 🔭Currently Learning    
-- *Cloud Computing & Other Devop Tools*  
+- *Cloud Computing & Other Devop Tools*
+- *Deep Computer science and system architecture*
+- *Rust*  
   
 
 <br/>  
@@ -30,7 +32,10 @@
 - *Electric Mobility & EVs*  
   
 
-- *Sustainable & Accessible Technologies*  
+- *Sustainable & Accessible Technologies*
+
+
+- *General Artifical Intelligence*   
   
 
 <br/>  
